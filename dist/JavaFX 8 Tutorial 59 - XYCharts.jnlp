@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFX 8 Tutorial 59 - XYCharts.jnlp">
+  <information>
+    <title>JavaFX 8 Tutorial 59 - XYCharts</title>
+    <vendor>Ram</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="JavaFX 8 Tutorial 59 - XYCharts" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="javafx.pkg8.tutorial.pkg59.xycharts.JavaFX8Tutorial59XYCharts"  name="JavaFX 8 Tutorial 59 - XYCharts" />
+  <update check="always"/>
+</jnlp>
